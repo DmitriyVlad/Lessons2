@@ -1,0 +1,15 @@
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\bin\Debug\net6.0\work2_10.exe
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\bin\Debug\net6.0\work2_10.deps.json
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\bin\Debug\net6.0\work2_10.runtimeconfig.json
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\bin\Debug\net6.0\work2_10.dll
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\bin\Debug\net6.0\work2_10.pdb
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.csproj.AssemblyReference.cache
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.AssemblyInfoInputs.cache
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.AssemblyInfo.cs
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.csproj.CoreCompileInputs.cache
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.dll
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\refint\work2_10.dll
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.pdb
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\work2_10.genruntimeconfig.cache
+D:\Учеба\Учеба ГикБреинс\Уроки\Знакомство с языками программирования\Work2\work2_10\obj\Debug\net6.0\ref\work2_10.dll
